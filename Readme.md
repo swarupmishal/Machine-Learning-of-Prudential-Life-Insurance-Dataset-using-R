@@ -60,16 +60,16 @@ Build linear regression, decision tree regression, and SVM regression models usi
 ### Pre-Processing
 ###### Pre-processing forms a major part of the data prediction which is done over a number of stages:
 1. Handling Missing Values – 
-    Deleted Columns – Missing values for a column over 60% 
-    Replace Missing values : Continuous Variables – average/mean value of column
+    a. Deleted Columns – Missing values for a column over 60%
+    b. Replace Missing values : Continuous Variables – average/mean value of column
 2. 1 to C coding – Categorical -> Numerical
 3. Normalization – Already normalized.
 4. Dimensionality Reduction – Applied Principal Component Analysis
 
 ### Predict the response using different Regression techniques:
-Linear Regression 
-Support Vector Machine Regression 
-Decision Tree Regression 
+1. Linear Regression 
+2. Support Vector Machine Regression 
+3. Decision Tree Regression 
 
 ### Individual Accuracies:
 
