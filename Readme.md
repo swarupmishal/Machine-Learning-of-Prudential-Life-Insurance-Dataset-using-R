@@ -20,7 +20,8 @@ train.csv - the training set, contains the Response values
 test.csv - the test set, you must predict the Response variable for all rows in this file
 
 # How can one obtain the Data?
-One can download the dataset using the following link:
+One can download the dataset using the following link: *You will have to create an account on Kaggle first*
+
 https://www.kaggle.com/c/prudential-life-insurance-assessment/download/sample_submission.csv.zip
 
 # How is the Data stored?
@@ -74,15 +75,15 @@ Build linear regression, decision tree regression, and SVM regression models usi
 3. Decision Tree Regression 
 
 ### Individual Accuracies:
-1. Linear Regression 
+###### 1. Linear Regression 
 
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture1.png)
 
-2. Support Vector Machine Regression 
+###### 2. Support Vector Machine Regression 
 
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture2.png)
 
-3. Decision Tree Regression
+###### 3. Decision Tree Regression
 
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture3.png)
 
