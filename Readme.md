@@ -60,6 +60,7 @@ Build linear regression, decision tree regression, and SVM regression models usi
 ### Pre-Processing
 ###### Pre-processing forms a major part of the data prediction which is done over a number of stages:
 1. Handling Missing Values – 
+
     a. Deleted Columns – Missing values for a column over 60%
     
     b. Replace Missing values : Continuous Variables – average/mean value of column
@@ -74,10 +75,15 @@ Build linear regression, decision tree regression, and SVM regression models usi
 
 ### Individual Accuracies:
 1. Linear Regression 
+
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture1.png)
+
 2. Support Vector Machine Regression 
+
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture2.png)
+
 3. Decision Tree Regression
+
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture3.png)
 
 
