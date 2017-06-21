@@ -54,5 +54,27 @@ application.
 
 Response	This is the target variable, an ordinal variable relating to the final decision associated with an application.
 
+# How have we tackeled the problem.
+Build linear regression, decision tree regression, and SVM regression models using the training data and then report the performance on the test data using the performance criteria as described in the site. Convert the categorical variables to their numerical representations using 0-to-C transformation. Fill in missing values of a column using 0, min, max, median, or average of the column.
+
+### Pre-Processing
+###### Pre-processing forms a major part of the data prediction which is done over a number of stages:
+1. Handling Missing Values – 
+    Deleted Columns – Missing values for a column over 60% 
+    Replace Missing values : Continuous Variables – average/mean value of column
+2. 1 to C coding – Categorical -> Numerical
+3. Normalization – Already normalized.
+4. Dimensionality Reduction – Applied Principal Component Analysis
+
+### Predict the response using different Regression techniques:
+Linear Regression 
+Support Vector Machine Regression 
+Decision Tree Regression 
+
+### Individual Accuracies:
+
+
+
+
 # Predicted Output
 [View the CSV file here](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Outputs/decision_tree_solution.csv)
