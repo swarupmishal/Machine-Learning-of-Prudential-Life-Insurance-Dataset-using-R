@@ -3,7 +3,7 @@
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/front_page.png)
 
 
-# What exactly the Data is?
+## What exactly the Data is?
 In a one-click shopping world with on-demand everything, the life insurance application process is antiquated. Customers provide extensive information to identify risk classification and eligibility, including scheduling medical exams, a process that takes an average of 30 days.
 
 The result? People are turned off. That’s why only 40% of U.S. households own individual life insurance. Prudential wants to make it quicker and less labor intensive for new and existing customers to get a quote while maintaining privacy boundaries.
@@ -21,13 +21,13 @@ train.csv - the training set, contains the Response values
 test.csv - the test set, you must predict the Response variable for all rows in this file
 
 
-# How can one obtain the Data?
+## How can one obtain the Data?
 One can download the dataset using the following link: *You will have to create an account on Kaggle first*
 
 https://www.kaggle.com/c/prudential-life-insurance-assessment/download/sample_submission.csv.zip
 
 
-# How is the Data stored?
+## How is the Data stored?
 ### Data fields
 ###### Variable	Description
 Id	A unique identifier associated with an application.
@@ -58,7 +58,7 @@ application.
 Response	This is the target variable, an ordinal variable relating to the final decision associated with an application.
 
 
-# How have we tackeled the problem.
+## How have we tackeled the problem.
 Build linear regression, decision tree regression, and SVM regression models using the training data and then report the performance on the test data using the performance criteria as described in the site. Convert the categorical variables to their numerical representations using 0-to-C transformation. Fill in missing values of a column using 0, min, max, median, or average of the column.
 
 ### Pre-Processing
@@ -91,9 +91,9 @@ Build linear regression, decision tree regression, and SVM regression models usi
 ![alt text](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Extras/Picture3.png)
 
 
-# Conclusion:
+## Conclusion:
 After performing all three types of Regressions, we can see that best prediction was achieved using Linear Regression with least error value of 1.967 RMSE value.
 
 
-# Predicted Output
+## Predicted Output
 [View the CSV file here](https://github.com/swarupmishal/Data-Science-Using-R/blob/master/Outputs/decision_tree_solution.csv)
